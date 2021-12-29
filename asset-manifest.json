@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.ce61e53b.css",
+    "main.js": "/memory-game/static/js/main.cbb0a572.js",
+    "static/media/congo.jpg": "/memory-game/static/media/congo.44557a91e0551e7d80e3.jpg",
+    "static/media/unitedStates.jpg": "/memory-game/static/media/unitedStates.ffcf25476103599edaae.jpg",
+    "static/media/brazil.jpg": "/memory-game/static/media/brazil.6563a34348fbfa01b7fe.jpg",
+    "index.html": "/memory-game/index.html",
+    "main.ce61e53b.css.map": "/memory-game/static/css/main.ce61e53b.css.map",
+    "main.cbb0a572.js.map": "/memory-game/static/js/main.cbb0a572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce61e53b.css",
+    "static/js/main.cbb0a572.js"
+  ]
+}

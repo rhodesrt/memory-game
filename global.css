@@ -1,0 +1,7 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f0ead6;
+  font-family: tahoma, sans-serif;
+}
